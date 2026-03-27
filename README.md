@@ -1,7 +1,6 @@
-# Biomedical Imaging & Signal Analysis Project  
-### SPR-Based Protein Detection Using Microscopy  
 Real-time biomedical imaging system for protein detection using optical signal analysis, image-based data processing, and quantitative measurement techniques.
 
+This project demonstrates practical experience in imaging-based signal analysis, directly applicable to medical imaging workflows, segmentation, and AI-driven diagnostics.
 ## Overview
 This project presents the design and implementation of a microscopy-integrated Surface Plasmon Resonance (SPR) system for real-time, label-free protein detection.
 
@@ -43,8 +42,7 @@ This project demonstrates transferable skills applicable to:
 - Tracked resonance angle shifts to detect protein binding events
 - Used FWHM analysis to evaluate system sensitivity and accuracy
 
-- ## 📊 Sample Results & Analysis
-
+- ##  Sample Results & Analysis
 This project involved analyzing image-derived intensity data to detect biomolecular interactions.
 
 Key outputs included:
@@ -53,6 +51,14 @@ Key outputs included:
 - FWHM analysis for evaluating system sensitivity
 
 These results demonstrate the ability to extract meaningful quantitative insights from imaging-based data, a core requirement in medical imaging and AI-driven diagnostics.
+
+## Key Outcomes
+- Successfully detected protein binding events through measurable resonance angle shifts
+- Demonstrated high sensitivity to refractive index changes using intensity-based analysis
+- Built a cost-effective, portable alternative to traditional SPR systems
+- Validated imaging-based signal extraction for real-time biomedical analysis
+
+This work bridges experimental bioengineering and computational imaging, aligning closely with modern AI-driven medical imaging systems.
 
 ## Impact
 This project demonstrates the ability to design, implement, and analyze biomedical imaging systems, bridging the gap between experimental bioengineering and modern AI-driven medical imaging applications.
